@@ -1,0 +1,10 @@
+.section-customize {
+    .bg-text{
+        margin-top: 10px;
+        margin-right: 10px;
+        cursor: pointer;
+        &:hover{
+            color: #45c3d2;
+        }
+    }
+}
